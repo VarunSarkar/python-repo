@@ -1,1 +1,1 @@
-Assignment given by the course instructors and some projects done based on my learning.
+Assignment given by the course instructors and some projects done after learning.
